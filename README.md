@@ -4,6 +4,10 @@
   ## Description
   This is a E-commerce back end application that uses Express.js API and Sequelize to interact with a MySQL database. This application allows the user to create, read, update, and delete data from the database. This application is a back end application that is not deployed to the web, but can be used to test the functionality of the database.
 
+  ## Demo
+  [insomnia-commerce.webm](https://user-images.githubusercontent.com/118019526/219828488-af2b625a-ff3e-4da3-9597-f4c4cbda987c.webm)
+
+
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
